@@ -1,0 +1,16 @@
+<!--原推特-->
+<div style="margin:10px 38px">  
+<h4 style="color:#3CF">由<span style="color:#FC3"><img src="img/xsjgf.png" width="24">夏色祭工坊</span>翻译自日语</h4>
+<h5>{T}</h5>
+</div>
+<!--原推特-->
+<!--回复有竖线-->
+<div style="width:100%; padding-top:8px;background-image: url(img/twitterreplyblue.png);">  
+<h6 style="margin:0 0 0 98px">{T}</h6>
+</div>
+<!--回复有竖线-->
+<!--回复无竖线-->
+<div style="width:100%; padding-top:8px">  
+<h6 style="margin:0 0 0 98px">{T}</h6>
+</div>
+<!--回复无竖线-->
